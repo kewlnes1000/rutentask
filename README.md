@@ -1,13 +1,13 @@
 ## rutentask
 
 >
-> chrome needs version 7.7 or higher
-> config\config.ini 
-> change your username & password 
+> chrome needs version 7.7 or higher  
+> config\config.ini   
+> change your username & password   
 >
 
-#### install 
+#### install   
 
-`pip install -r requirements.txt` 
+`pip install -r requirements.txt`   
 
-`python selenum.py` 
+`python selenum.py`   
